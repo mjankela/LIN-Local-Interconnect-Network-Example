@@ -25,7 +25,8 @@ The course emphasizes code readability and practical demonstrations, making it a
 
 **Happy learning and coding!**
 
+<p align="center">
 ![alt text](https://github.com/mjankela/LIN-Local-Interconnect-Network-Example/blob/main/LIN_course.jpg "LIN Course Image")
-
+</p>
 
 
