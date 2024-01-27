@@ -12,6 +12,8 @@ Discover how to handle frame handling and break symbol generation in the master 
 
 You can find the core driver logic according to the protocol in the 'JRLinMaster.cpp' and 'JRLinSlave.cpp' files.
 
+# LIN (Local Interconnect Network) Course: 
+
 If you want to learn more about LIN in general and it's application, please support me by attending the course on http://www.invehiclelan.com.
 There  you will learn everything you need to know about the Automotive low-cost, lightweight protocol, as well as the basic hardware setup for this example. 
 
