@@ -1,7 +1,7 @@
 # LIN-Local-Interconnect-Network-Example
 This repository holds the basic code for an educational LIN (Local Interconnect Network) driver. It accompanies the course offered on http://www.invehiclelan.com.
 
-# Repository Code Master/Slave example: 
+# Repository Code Master/Slave example
 
 Dive into the world of _Local Interconnect Network (LIN)_ with this educational driver. 
 
@@ -12,7 +12,7 @@ Discover how to handle frame handling and break symbol generation in the master 
 
 You can find the core driver logic according to the protocol in the '_JRLinMaster.cpp_' and '_JRLinSlave.cpp_' files.
 
-# LIN (Local Interconnect Network) Course: 
+# LIN (Local Interconnect Network) Course
 
 If you want to learn more about LIN in general and it's application, please support me by attending the course on http://www.invehiclelan.com.
 There  you will learn everything you need to know about the Automotive low-cost, lightweight protocol, as well as the basic hardware setup for this example. 
