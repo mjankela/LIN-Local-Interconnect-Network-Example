@@ -1,5 +1,5 @@
 # LIN-Local-Interconnect-Network-Example
-This repository holds the basic code for an educational LIN (Local Interconnect Network) driver. It accompanies the course offered on http://www.invehiclelan.com.
+This repository holds the basic code for an educational LIN (Local Interconnect Network) driver. It accompanies the course offered on https://www.invehiclelan.com.
 
 # Repository Code Master/Slave example
 
@@ -14,7 +14,7 @@ You can find the core driver logic according to the protocol in the '_JRLinMaste
 
 # LIN (Local Interconnect Network) Course
 
-If you want to learn more about LIN in general and it's application, please support me by attending the course on http://www.invehiclelan.com.
+If you want to learn more about LIN in general and it's application, please support me by attending the course on https://www.invehiclelan.com.
 There  you will learn everything you need to know about the Automotive low-cost, lightweight protocol, as well as the basic hardware setup for this example. 
 
 The course provides a deep dive into application software and LIN drivers. 
@@ -25,8 +25,11 @@ The course emphasizes code readability and practical demonstrations, making it a
 
 **Happy learning and coding!**
 
+ 
 <p align="center">
-![alt text](https://github.com/mjankela/LIN-Local-Interconnect-Network-Example/blob/main/LIN_course.jpg "LIN Course Image")
+  <br>
+  <a href="https://www.invehiclelan.com">
+    <img src="https://github.com/mjankela/LIN-Local-Interconnect-Network-Example/blob/main/LIN_course.jpg" alt="LIN Course Image" style="width:70%; border:5px solid black;">
+  </a>
 </p>
-
 
