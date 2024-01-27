@@ -29,7 +29,7 @@ The course emphasizes code readability and practical demonstrations, making it a
 <p align="center">
   <br>
   <a href="https://www.invehiclelan.com">
-    <img src="https://github.com/mjankela/LIN-Local-Interconnect-Network-Example/blob/main/LIN_course.jpg" alt="LIN Course Image" style="width:70%; border:5px solid black;">
+    <img src="https://github.com/mjankela/LIN-Local-Interconnect-Network-Example/blob/main/LIN_course.jpg" alt="LIN Course Image" style="width:50%; border:5px solid black;">
   </a>
 </p>
 
