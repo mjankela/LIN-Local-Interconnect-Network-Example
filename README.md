@@ -24,3 +24,8 @@ Learn how to control LED lights with the master node, transfer signals between n
 The course emphasizes code readability and practical demonstrations, making it a great resource for both beginners and experienced developers.
 
 **Happy learning and coding!**
+
+![alt text](https://github.com/mjankela/LIN-Local-Interconnect-Network-Example/blob/main/LIN_course.jpg "LIN Course Image")
+
+
+
